@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/byte-buddy-1.15.1.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/byte-buddy-1.15.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/checker-qual-3.43.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/checker-qual-3.43.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/commons-exec-1.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/commons-exec-1.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/commons-io-2.17.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/commons-io-2.17.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/commons-io-2.17.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/commons-io-2.17.0-tests.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/commons-io-2.17.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/error_prone_annotations-2.28.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/error_prone_annotations-2.28.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/failsafe-3.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/failureaccess-1.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/failureaccess-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/gson-2.10.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/guava-33.3.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/guava-33.3.0-jre-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/j2objc-annotations-3.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/j2objc-annotations-3.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/jarchivelib-1.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/jsoup-1.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/jspecify-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/jspecify-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/jsr305-3.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-api-1.42.1.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-api-1.42.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-api-incubator-1.42.1-alpha.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-api-incubator-1.42.1-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-context-1.42.1.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-context-1.42.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-exporter-logging-1.42.1.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-exporter-logging-1.42.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-sdk-1.42.1.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-sdk-1.42.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-sdk-common-1.42.1.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-sdk-common-1.42.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-sdk-extension-autoconfigure-1.42.1.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-sdk-extension-autoconfigure-1.42.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-sdk-extension-autoconfigure-spi-1.42.1.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-sdk-extension-autoconfigure-spi-1.42.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-sdk-logs-1.42.1.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-sdk-logs-1.42.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-sdk-metrics-1.42.1.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-sdk-metrics-1.42.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-sdk-trace-1.42.1.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-sdk-trace-1.42.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-semconv-1.25.0-alpha.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/opentelemetry-semconv-1.25.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/reload4j-1.2.22.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-api-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-api-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-chrome-driver-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-chrome-driver-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-chromium-driver-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-chromium-driver-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-devtools-v85-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-devtools-v85-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-devtools-v127-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-devtools-v127-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-devtools-v128-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-devtools-v128-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-devtools-v129-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-devtools-v129-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-edge-driver-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-edge-driver-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-firefox-driver-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-firefox-driver-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-http-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-http-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-ie-driver-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-ie-driver-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-java-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-java-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-json-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-json-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-manager-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-manager-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-os-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-os-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-remote-driver-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-remote-driver-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-safari-driver-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-safari-driver-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-support-4.25.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/selenium-support-4.25.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/slf4j-reload4j-2.0.7.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/testng-6.7.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/java-client-8.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/junit-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-api-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-api-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-chrome-driver-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-chrome-driver-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-chromium-driver-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-chromium-driver-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-devtools-v85-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-devtools-v85-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-devtools-v112-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-devtools-v112-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-devtools-v113-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-devtools-v113-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-devtools-v114-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-devtools-v114-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-edge-driver-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-edge-driver-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-firefox-driver-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-firefox-driver-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-http-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-http-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-ie-driver-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-ie-driver-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-java-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-java-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-json-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-json-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-manager-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-manager-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-remote-driver-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-remote-driver-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-safari-driver-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-safari-driver-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-server-4.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-server-standalone-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-support-4.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/seleniumjar/selenium-support-4.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/commons-codec-1.17.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/commons-compress-1.26.2.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/commons-io-2.16.1.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/commons-lang3-3.15.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/docker-java-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/docker-java-api-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/docker-java-core-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/docker-java-transport-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/docker-java-transport-httpclient5-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/error_prone_annotations-2.27.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/gson-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/httpcore5-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/httpcore5-h2-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/jna-5.13.0.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/slf4j-api-2.0.13.jar"/>
+	<classpathentry kind="lib" path="E:/transfer/external jars/webdrivermanager/webdrivermanager-5.9.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
